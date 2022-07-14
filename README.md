@@ -1,2 +1,2 @@
 # Node_Firebase
-Node.js and Firebase
+Simple application node.js with Firebase
